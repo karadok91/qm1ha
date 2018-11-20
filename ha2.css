@@ -1,0 +1,15 @@
+body {
+   background-image: url("https://preview.ibb.co/cKATUq/backgrond.jpg");
+   background-color: #ffffff;
+   background-repeat:no-repeat;
+   background-position: center top;
+   background-size: 1200px 1300px;
+}
+
+
+   a:link {color: #0B3B0B;}
+   a:visited {color: #0B3B0B;}
+   a:active {color: #0B3B0B;}
+   a:hover {color: #0B610B;}
+
+
